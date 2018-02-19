@@ -1,0 +1,6 @@
+framework module pruebedy {
+  umbrella header "pruebedy-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - pruebedy (0.1.0)
+
+DEPENDENCIES:
+  - pruebedy (from `../`)
+
+EXTERNAL SOURCES:
+  pruebedy:
+    :path: ../
+
+SPEC CHECKSUMS:
+  pruebedy: 37437a3075fd5bcd30383c22265fbdf5a76a6d7d
+
+PODFILE CHECKSUM: 372c78b0cbd7503291ec0e6e5ce37db67a69110e
+
+COCOAPODS: 1.3.1

@@ -1,0 +1,22 @@
+{
+  "name": "pruebedy",
+  "version": "0.1.0",
+  "summary": "A short description of pruebedy.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/developersmoviletp/pruebedy",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "developersmoviletp": "jrescobarmiron@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/developersmoviletp/pruebedy.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "pruebedy/Classes/**/*"
+}
